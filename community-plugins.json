@@ -36146,5 +36146,12 @@
     "author": "Me1oman",
     "description": "Minimalistic audio player in the sidebar: playlists, musics, tracks, sounds, shuffle, repeat, and volume. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "razzdol/obsidian-sounders"
+  },
+  {
+    "id": "mermaid-canvas",
+    "name": "Mermaid Canvas",
+    "author": "cheney",
+    "description": "Enhanced Mermaid diagram editor with adaptive canvas, smooth zoom/pan, split view, and fullscreen support.",
+    "repo": "cheney12138/mermaid-canvas-plugin"
   }
 ]
